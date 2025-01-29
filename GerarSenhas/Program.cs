@@ -23,11 +23,11 @@ if (double.TryParse(Console.ReadLine(), out double tamanho))
         }
 
         Console.WriteLine("Salve em bkp.TXT: ");
-        if (double.TryParse(Console.ReadLine(), out double bkp.TXT))
+        if (double.TryParse(Console.ReadLine(), out double bkp))
         {
 
             Console.WriteLine("Recuperar senhas geradas: ");
-            if (double.TryParse(Console.ReadLine(), out double senhas geradas))
+            if (double.TryParse(Console.ReadLine(), out double senhas))
             {
 
 
