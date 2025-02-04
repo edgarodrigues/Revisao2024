@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GerarSenhas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+faa8851230b021d9ff912ce063b663d24b769b09")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ebd6086daea03494da824d1c77f5c00049f525b")]
 [assembly: System.Reflection.AssemblyProductAttribute("GerarSenhas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GerarSenhas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
